@@ -1,0 +1,262 @@
+2021-07-25 15:59:17.743  INFO 8188 --- [main] com.dreamchaser.Application : Starting Application on DESKTOP-I43T2Q2 with PID 8188 (E:\javaEE资料\Blog\target\classes started by 孙 in E:\javaEE资料\Blog)
+2021-07-25 15:59:17.745  INFO 8188 --- [main] com.dreamchaser.Application : The following profiles are active: dev
+2021-07-25 15:59:18.706  INFO 8188 --- [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+2021-07-25 15:59:18.713  INFO 8188 --- [main] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2021-07-25 15:59:18.714  INFO 8188 --- [main] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2021-07-25 15:59:18.727  INFO 8188 --- [main] org.apache.catalina.core.AprLifecycleListener : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-07-25 15:59:18.727  INFO 8188 --- [main] org.apache.catalina.core.AprLifecycleListener : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-07-25 15:59:18.728  INFO 8188 --- [main] org.apache.catalina.core.AprLifecycleListener : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-07-25 15:59:18.762  INFO 8188 --- [main] org.apache.catalina.core.AprLifecycleListener : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-07-25 15:59:18.853  INFO 8188 --- [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2021-07-25 15:59:18.853  INFO 8188 --- [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1077 ms
+2021-07-25 15:59:18.974  INFO 8188 --- [main] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure : Init DruidDataSource
+2021-07-25 15:59:19.049  INFO 8188 --- [main] com.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+2021-07-25 15:59:19.628  INFO 8188 --- [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2021-07-25 15:59:19.682  INFO 8188 --- [main] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping : Adding welcome page template: index
+2021-07-25 15:59:19.840  INFO 8188 --- [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+2021-07-25 15:59:19.848  INFO 8188 --- [main] com.dreamchaser.Application : Started Application in 2.657 seconds (JVM running for 3.93)
+2021-07-25 16:03:14.520  INFO 10912 --- [main] com.dreamchaser.Application : Starting Application on DESKTOP-I43T2Q2 with PID 10912 (E:\javaEE资料\Blog\target\classes started by 孙 in E:\javaEE资料\Blog)
+2021-07-25 16:03:14.527  INFO 10912 --- [main] com.dreamchaser.Application : The following profiles are active: dev
+2021-07-25 16:03:15.677  INFO 10912 --- [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+2021-07-25 16:03:15.684  INFO 10912 --- [main] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2021-07-25 16:03:15.684  INFO 10912 --- [main] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2021-07-25 16:03:15.687  INFO 10912 --- [main] org.apache.catalina.core.AprLifecycleListener : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-07-25 16:03:15.687  INFO 10912 --- [main] org.apache.catalina.core.AprLifecycleListener : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-07-25 16:03:15.687  INFO 10912 --- [main] org.apache.catalina.core.AprLifecycleListener : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-07-25 16:03:15.690  INFO 10912 --- [main] org.apache.catalina.core.AprLifecycleListener : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-07-25 16:03:15.759  INFO 10912 --- [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2021-07-25 16:03:15.760  INFO 10912 --- [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1178 ms
+2021-07-25 16:03:15.877  INFO 10912 --- [main] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure : Init DruidDataSource
+2021-07-25 16:03:15.978  INFO 10912 --- [main] com.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+2021-07-25 16:03:16.499  INFO 10912 --- [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2021-07-25 16:03:16.556  INFO 10912 --- [main] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping : Adding welcome page template: index
+2021-07-25 16:03:16.713  INFO 10912 --- [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+2021-07-25 16:03:16.721  INFO 10912 --- [main] com.dreamchaser.Application : Started Application in 2.901 seconds (JVM running for 4.369)
+2021-07-25 16:05:02.092  INFO 10912 --- [http-nio-9090-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-25 16:05:02.093  INFO 10912 --- [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+2021-07-25 16:05:02.102  INFO 10912 --- [http-nio-9090-exec-1] org.springframework.web.servlet.DispatcherServlet : Completed initialization in 9 ms
+2021-07-25 16:05:32.641  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090//user/login
+2021-07-25 16:05:32.642  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:05:32.642  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:05:32.642  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [org.apache.catalina.connector.RequestFacade@47a67b14, org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-07-25 16:05:32.643  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.ControllerExceptionHandler.exceptionHandler
+2021-07-25 16:05:45.831  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/user/login
+2021-07-25 16:05:45.831  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:05:45.832  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:05:45.832  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [org.apache.catalina.connector.RequestFacade@1b7c67e6, org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-07-25 16:05:45.832  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.ControllerExceptionHandler.exceptionHandler
+2021-07-25 16:05:48.783  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/user/login
+2021-07-25 16:05:48.784  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:05:48.784  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:05:48.784  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [org.apache.catalina.connector.RequestFacade@1b7c67e6, org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-07-25 16:05:48.784  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.ControllerExceptionHandler.exceptionHandler
+2021-07-25 16:08:44.036  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/user/logout
+2021-07-25 16:08:44.036  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:08:44.037  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:08:44.037  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [org.apache.catalina.session.StandardSessionFacade@4648be78]
+2021-07-25 16:08:44.037  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.UserController.logOut
+2021-07-25 16:08:53.291  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/user/logout
+2021-07-25 16:08:53.292  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:08:53.292  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:08:53.292  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [org.apache.catalina.session.StandardSessionFacade@4648be78]
+2021-07-25 16:08:53.292  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.UserController.logOut
+2021-07-25 16:08:55.061  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/user/logout
+2021-07-25 16:08:55.061  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:08:55.061  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:08:55.061  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [org.apache.catalina.session.StandardSessionFacade@4648be78]
+2021-07-25 16:08:55.062  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.UserController.logOut
+2021-07-25 16:08:57.540  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/login
+2021-07-25 16:08:57.540  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:08:57.540  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:08:57.540  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:08:57.540  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.login
+2021-07-25 16:09:07.826  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/user/login
+2021-07-25 16:09:07.826  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : POST
+2021-07-25 16:09:07.827  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:07.827  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{name=root, password=123456}, org.apache.catalina.session.StandardSessionFacade@4648be78]
+2021-07-25 16:09:07.827  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.UserController.loginUser
+2021-07-25 16:09:08.456  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/blogs
+2021-07-25 16:09:08.456  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:08.456  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:08.456  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:09:08.456  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blogs
+2021-07-25 16:09:14.396  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/types
+2021-07-25 16:09:14.396  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:14.397  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:14.397  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:09:14.397  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.types
+2021-07-25 16:09:15.667  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/tags
+2021-07-25 16:09:15.668  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:15.668  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:15.668  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:09:15.668  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.tags
+2021-07-25 16:09:16.799  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/comments
+2021-07-25 16:09:16.799  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:16.800  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:16.800  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:09:16.800  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.comments
+2021-07-25 16:09:21.204  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/tags
+2021-07-25 16:09:21.205  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:21.205  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:21.205  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:09:21.205  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.tags
+2021-07-25 16:09:21.766  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/types
+2021-07-25 16:09:21.766  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:21.766  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:21.766  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:09:21.766  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.types
+2021-07-25 16:09:24.275  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/user/logout
+2021-07-25 16:09:24.275  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:24.276  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:24.276  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [org.apache.catalina.session.StandardSessionFacade@4648be78]
+2021-07-25 16:09:24.276  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.UserController.logOut
+2021-07-25 16:09:31.794  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/login
+2021-07-25 16:09:31.794  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:31.794  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:31.794  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:09:31.795  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.login
+2021-07-25 16:09:36.065  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/user/login
+2021-07-25 16:09:36.066  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : POST
+2021-07-25 16:09:36.066  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:36.066  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{name=root, password=123456}, org.apache.catalina.session.StandardSessionFacade@4648be78]
+2021-07-25 16:09:36.066  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.UserController.loginUser
+2021-07-25 16:09:36.074  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/blogs
+2021-07-25 16:09:36.074  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:09:36.074  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:09:36.074  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:09:36.074  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blogs
+2021-07-25 16:10:03.401  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/blog-input/57
+2021-07-25 16:10:03.401  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:10:03.402  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:10:03.402  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [57]
+2021-07-25 16:10:03.402  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blog_input_update
+2021-07-25 16:10:09.540  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/blogs
+2021-07-25 16:10:09.540  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:10:09.540  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:10:09.540  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:10:09.540  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blogs
+2021-07-25 16:10:11.120  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/blog-input
+2021-07-25 16:10:11.121  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:10:11.121  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:10:11.121  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:10:11.121  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blog_input
+2021-07-25 16:10:24.441  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_blog/57
+2021-07-25 16:10:24.441  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:10:24.441  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:10:24.441  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [57]
+2021-07-25 16:10:24.441  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blog
+2021-07-25 16:10:28.806  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/index
+2021-07-25 16:10:28.806  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:10:28.806  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:10:28.806  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{}]
+2021-07-25 16:10:28.807  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.index
+2021-07-25 16:10:36.545  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_blog/57
+2021-07-25 16:10:36.545  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:10:36.545  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:10:36.545  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [57]
+2021-07-25 16:10:36.545  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blog
+2021-07-25 16:11:24.932  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/blog-input
+2021-07-25 16:11:24.932  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:11:24.932  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:11:24.932  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:11:24.932  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blog_input
+2021-07-25 16:13:24.311  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/blog
+2021-07-25 16:13:24.312  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : POST
+2021-07-25 16:13:24.312  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:13:24.312  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [com.dreamchaser.pojo.Blog@161a082d]
+2021-07-25 16:13:24.312  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.BlogCtroller.insertBlog
+2021-07-25 16:13:29.003  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/admin/blogs
+2021-07-25 16:13:29.003  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:13:29.003  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:13:29.003  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:13:29.003  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blogs
+2021-07-25 16:13:38.365  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/index
+2021-07-25 16:13:38.365  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:13:38.365  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:13:38.365  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{}]
+2021-07-25 16:13:38.365  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.index
+2021-07-25 16:13:41.009  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_blog/59
+2021-07-25 16:13:41.009  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:13:41.009  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:13:41.009  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [59]
+2021-07-25 16:13:41.009  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.blog
+2021-07-25 16:13:53.187  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/about
+2021-07-25 16:13:53.188  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:13:53.188  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:13:53.188  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:13:53.188  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.about
+2021-07-25 16:14:46.919  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/archives
+2021-07-25 16:14:46.919  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:14:46.919  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:14:46.919  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:14:46.920  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.archives
+2021-07-25 16:14:48.565  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_tags
+2021-07-25 16:14:50.208  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:14:50.208  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:14:50.209  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{}]
+2021-07-25 16:14:50.209  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_tags
+2021-07-25 16:14:50.546  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_tags
+2021-07-25 16:14:50.546  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:14:50.546  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:14:50.546  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{}]
+2021-07-25 16:14:50.547  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_tags
+2021-07-25 16:14:52.037  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/archives
+2021-07-25 16:14:52.037  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:14:52.037  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:14:52.037  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : []
+2021-07-25 16:14:52.037  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.archives
+2021-07-25 16:14:53.664  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_tags
+2021-07-25 16:14:53.665  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:14:53.665  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:14:53.665  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{}]
+2021-07-25 16:14:53.665  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_tags
+2021-07-25 16:14:54.373  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:14:54.373  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:14:54.373  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:14:54.373  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{}]
+2021-07-25 16:14:54.373  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
+2021-07-25 16:14:55.474  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/index
+2021-07-25 16:14:55.474  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:14:55.474  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:14:55.474  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{}]
+2021-07-25 16:14:55.474  INFO 10912 --- [http-nio-9090-exec-8] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.index
+2021-07-25 16:14:56.571  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:14:56.571  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:14:56.571  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:14:56.571  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{}]
+2021-07-25 16:14:56.571  INFO 10912 --- [http-nio-9090-exec-7] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
+2021-07-25 16:15:00.163  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:15:00.163  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:15:00.163  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:15:00.163  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{typeId=13}]
+2021-07-25 16:15:00.164  INFO 10912 --- [http-nio-9090-exec-4] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
+2021-07-25 16:15:01.004  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:15:01.005  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:15:01.005  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:15:01.005  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{typeId=14}]
+2021-07-25 16:15:01.005  INFO 10912 --- [http-nio-9090-exec-6] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
+2021-07-25 16:15:01.436  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:15:01.437  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:15:01.437  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:15:01.437  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{typeId=15}]
+2021-07-25 16:15:01.437  INFO 10912 --- [http-nio-9090-exec-10] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
+2021-07-25 16:15:02.030  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:15:02.030  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:15:02.030  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:15:02.030  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{typeId=16}]
+2021-07-25 16:15:02.030  INFO 10912 --- [http-nio-9090-exec-9] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
+2021-07-25 16:15:02.805  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:15:02.805  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:15:02.806  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:15:02.806  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{typeId=19}]
+2021-07-25 16:15:02.806  INFO 10912 --- [http-nio-9090-exec-3] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
+2021-07-25 16:15:03.218  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:15:03.218  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:15:03.218  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:15:03.218  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{typeId=18}]
+2021-07-25 16:15:03.218  INFO 10912 --- [http-nio-9090-exec-2] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
+2021-07-25 16:15:03.555  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################URL : http://localhost:9090/page_types
+2021-07-25 16:15:03.555  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################HTTP_METHOD : GET
+2021-07-25 16:15:03.555  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################IP : 0:0:0:0:0:0:0:1
+2021-07-25 16:15:03.555  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################THE ARGS OF THE CONTROLLER : [{typeId=17}]
+2021-07-25 16:15:03.555  INFO 10912 --- [http-nio-9090-exec-5] com.dreamchaser.aop.WebLogAspect : ################CLASS_METHOD : com.dreamchaser.controller.PageController.page_types
